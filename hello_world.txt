@@ -1,2 +1,0 @@
-Test git linux
-Hello Odin!
