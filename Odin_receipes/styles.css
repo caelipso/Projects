@@ -2,3 +2,12 @@
   margin: 0;
   padding: 0;
 }
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+img {
+  max-width: 500px;
+  height: auto;
+}
