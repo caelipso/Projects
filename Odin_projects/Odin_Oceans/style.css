@@ -43,7 +43,14 @@ h2 {
   justify-content: center;
   text-align: center;
 }
-.second-section h2 {
-}
-.second-section button {
+.button-second-section {
+  margin: 2rem auto;
+
+  margin-right: auto;
+  max-width: 200px;
+  background-color: #1f2937;
+  color: #f9faf8;
+  padding: 1rem;
+  border: solid #1f2937 1px;
+  box-shadow: 1px 1px 1px black;
 }
