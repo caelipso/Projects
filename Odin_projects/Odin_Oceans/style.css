@@ -18,7 +18,8 @@ a {
   color: #f9faf8;
   font-weight: bold;
 }
-.first-section {
+.first-section,
+.third-section {
   width: 100%;
   height: 100vh;
   background: #1f2937;
@@ -33,6 +34,11 @@ h1 {
 }
 h2 {
   font-size: 2rem;
+}
+h3 {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.5rem;
 }
 .second-section {
   width: 100%;
@@ -53,4 +59,8 @@ h2 {
   padding: 1rem;
   border: solid #1f2937 1px;
   box-shadow: 1px 1px 1px black;
+}
+.third-section blockquote {
+  font-style: italic;
+  font-size: 2rem;
 }
